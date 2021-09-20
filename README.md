@@ -11,4 +11,4 @@ License for this software is the same as the license for the CSC from SANS Insti
 
 <img src="https://github.com/jrzelling/wordcloudReports/blob/main/demo-output/frequentwords.png" alt="na" width=40% height=40%/>
 <img src="https://github.com/jrzelling/wordcloudReports/blob/main/demo-output/wordcloud.png" alt="na" width=40% height=40%/>
-<img src="https://github.com/jrzelling/wordcloudReports/blob/main/demo-output/wordcloud.png" alt="na" width=40% height=40%/>
+<img src="https://github.com/jrzelling/wordcloudReports/blob/main/docs/page1.PNG" alt="na" width=40% height=40%/>
