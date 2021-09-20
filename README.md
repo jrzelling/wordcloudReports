@@ -8,3 +8,6 @@ Demo Project uses a large document as a text sample.
 The Critical Security Controls (CSC) document version 2016 published by the SANS institute and publicly available under MIT license. This document is used as a demo for the large text document deconstructor. 
 
 License for this software is the same as the license for the CSC from SANS Institute (MIT license). See pdf for license information. The current document can be downloaded at (https://www.sans.org/critical-security-controls).
+
+<img src="https://github.com/jrzelling/wordcloudReports/blob/main/demo-output/frequentwords.png" alt="na" width=75% height=75%/>
+<img src="https://github.com/jrzelling/wordcloudReports/blob/main/demo-output/wordcloud.png" alt="na" width=75% height=75%/>
